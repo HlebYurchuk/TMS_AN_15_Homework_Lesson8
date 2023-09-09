@@ -1,6 +1,6 @@
-package homework8_1;
+package com.teachmeskills.homework8.homework8_1;
 
-public class Rectangle extends Figure{
+final class Rectangle extends Figure{
 
     private int side1;
     private int side2;

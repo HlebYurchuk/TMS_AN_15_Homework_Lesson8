@@ -1,6 +1,6 @@
-package homework8_1;
+package com.teachmeskills.homework8.homework8_1;
 
-public class Circle extends Figure{
+final class Circle extends Figure{
     private int radius;
     public Circle(int radius){
         this.radius=radius;
